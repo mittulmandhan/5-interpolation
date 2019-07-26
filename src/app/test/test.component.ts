@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
             <!--displaying strings dynamically-->
             <h2 style="text-align:center">
-                Hello {{name}}
+              Hello {{name}}
             </h2>
             <!--displaying expressions-->
             <h2>{{2+2}}</h2>
